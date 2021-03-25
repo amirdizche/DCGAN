@@ -78,5 +78,5 @@ D(
 ## Results
 After 25 epochs of training on CIFAR-10
 
-![result](results\fake_samples_epoch_024.png)
+<img src="results/fake_samples_epoch_024.png" alt="Waldp"  />
 
